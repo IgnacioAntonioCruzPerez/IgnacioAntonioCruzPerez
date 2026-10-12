@@ -1,16 +1,5 @@
-# 👋 Hi, I'm Ignacio Antonio Cruz Perez
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Engineer;Building+Scalable+Distributed+Systems;AI+%26+Cloud+Infrastructure+Engineer;Turning+Complex+Problems+Into+Reliable+Software" alt="Dynamic introduction" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ignacio-antonio-cruz-276929442">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cruzignacioantonio65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Engineer;Building+Scalable+Distributed+Systems;AI+%26+Cloud+Infrastructure+Engineer;Turning+Complex+Problems+Into+Reliable+Software" alt="Dynamic introduction" />
 </p>
 
 ## 🚀 About Me
@@ -20,12 +9,6 @@ I'm a Senior Full-Stack Engineer with **8 years of professional experience** bui
 My experience spans the entire software development lifecycle, from designing intuitive frontend experiences and robust APIs to optimizing databases, building asynchronous processing pipelines, and deploying cloud-native services.
 
 I enjoy solving complex engineering challenges through thoughtful system design, performance optimization, clean architecture, and reliable automation. I also leverage AI-assisted development tools such as Cursor, Claude Code, and GitHub Copilot to accelerate implementation, debugging, refactoring, and testing while maintaining code quality.
-
-- 🔭 **Focus:** Full-stack engineering, distributed systems, and AI-powered applications
-- 🤖 **AI & ML:** LLM integration, RAG, embeddings, vector search, and computer vision
-- ☁️ **Infrastructure:** Cloud-native systems, Docker, Kubernetes, and Terraform
-- ⚡ **Engineering:** API design, database optimization, asynchronous processing, and CI/CD
-- 🎓 **Education:** Bachelor's Degree in Computer Science
 
 ## 🛠️ Tech Stack
 
