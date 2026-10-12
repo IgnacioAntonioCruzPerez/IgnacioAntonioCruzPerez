@@ -39,7 +39,7 @@ I enjoy solving complex engineering challenges through thoughtful system design,
 
 <p align="center">
   <strong>Testing & Development Tools</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,pytest,cypress,playwright,git,github,vscode" alt="Jest, Vitest, Cypress, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,vscode" alt="Jest, Vitest, Cypress, Git, GitHub, VS Code" />
 </p>
 
 <p align="center">
