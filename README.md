@@ -13,43 +13,17 @@ I enjoy solving complex engineering challenges through thoughtful system design,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash" alt="JavaScript, TypeScript, Python, HTML, CSS, Bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,react,nextjs,vue,nuxt,angular,redux,tailwind,vite,nodejs,express,nestjs,fastapi,django,flask,graphql,postgres,mysql,mongodb,redis,sqlite,aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,jenkins,linux,nginx,jest,vitest,pytest,cypress,git,github,vscode&perline=11" alt="Technology stack icons" />
 </p>
 
 <p align="center">
-  <strong>Frontend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,redux,tailwind,vite" alt="React, Next.js, Vue, Nuxt, Angular, Redux, Tailwind CSS, Vite" />
-</p>
-
-<p align="center">
-  <strong>Backend & APIs</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql" alt="Node.js, Express, NestJS, FastAPI, Django, Flask, GraphQL" />
-</p>
-
-<p align="center">
-  <strong>Databases & Messaging</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite, Elasticsearch" />
-</p>
-
-<p align="center">
-  <strong>Cloud & DevOps</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,jenkins,linux,nginx" alt="AWS, Google Cloud, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab, Jenkins, Linux, Nginx" />
-</p>
-
-<p align="center">
-  <strong>Testing & Development Tools</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,vscode" alt="Jest, Vitest, Cypress, Git, GitHub, VS Code" />
-</p>
-
-<p align="center">
-  <strong>AI & AI-Assisted Development</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="OpenCV, PyTorch, TensorFlow" /><br/><br/>
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-0F766E?style=for-the-badge" alt="RAG and Vector Search" />
-  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM integration" />
+  <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-0F766E?style=flat-square" alt="RAG and vector search" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 <p align="center">
