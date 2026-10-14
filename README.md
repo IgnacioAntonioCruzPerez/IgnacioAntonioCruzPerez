@@ -13,7 +13,7 @@ I enjoy solving complex engineering challenges through thoughtful system design,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,react,nextjs,vue,nuxt,angular,redux,tailwind,vite,nodejs,express,nestjs,fastapi,django,flask,graphql,postgres,mysql,mongodb,redis,sqlite,aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,jenkins,linux,nginx,jest,vitest,python,cypress,git,github,vscode&perline=11" alt="Technology stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,react,nextjs,vue,nuxt,angular,redux,tailwind,vite,nodejs,express,nestjs,fastapi,django,flask,graphql,postgres,mysql,mongodb,redis,sqlite,aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,jenkins,linux,nginx,jest,vitest,php,cypress,git,github,vscode&perline=11" alt="Technology stack icons" />
 </p>
 
 <p align="center">
